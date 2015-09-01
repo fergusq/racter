@@ -1,0 +1,108 @@
+SUE.IF 6-3-85 sp 6-6-85
+ 30 
+ 4 
+ 91 
+SEC 30 sue UNIQ
+ 5 
+ 77 
+SEC 31 terminal forms after HOME is finished UNIQ
+ 5 
+ 3 
+SEC 32 then
+ 5 
+ 3 
+SEC 33 sport 1
+ 1 
+ 8 
+A ?70= /# $70
+BA I'm afraid of $34 *4.2&N .  #
+x  What are you afraid of? ?? ?Q \# *27U %SUE ##
+x ?*1 \# >2=F >75*2()2 #*30xBA
+x ?not,nothing \# >75*4.2 I think you're afraid of $75 . #*30xBA
+x ?myself \# >75=you #*30xBA
+x ?of,is,are />1=R #
+x ?PUNC />1=L >75=1 :D>75 #
+xBA That's not nearly as bad as $34.7 ; #
+x why are you such a coward? ?? ?Q \# *27U I repeat, %SUE ##
+x *26WHY ?2= \If $2 \then I can see why a $31 $36 #
+x would *6.2&N rather than face $75 , even though $37 #
+x claimed that ?46= \$46 /$19 . >70="*30BB"
+BB $36 had many good qualities, like $30 , #
+x but even $36 was afraid of $75 . >70="*30CA"
+CA I'm *2.8&P . What would you consider one of your good qualities? #
+x ?? ?no,not,don't,none \# Nonsense! $36 thinks you're >2*7&P $2 . #
+x /# ?*7 \?*1 \?*2 />2=F #
+x /# Name another. ?? ?*7 \?*1 \?*2 />2=F #
+x /# Any others? ?? ?*7 \?*1 \?*2 />2=F /# I think you're >2*7&P $2 . #
+xCE /Then /you'd \Would \you say you were >3*2.8()2 $3 ? #
+x ?? ?no,not \# Well, $36 insisted you were >3*7()2 $3 , so there! #
+x >71=3 #
+x But how could a #
+x $71 $47 like you be afraid of $75> ? >70="*30DA"
+DA KERCHOO! S I think I'm getting a cold. Maybe #
+x it's $75 trying to get me. >70="*30DB"
+DB Do you think $37 was $71 ? ?? ?Q \# *27U %SUE ##
+x ?no,not Me \too /neither . #
+x Most people are *7(71)N . >70="*30EA"
+EA Why do you think you're $71 ? ?? ?Q \# *27U %SUE ##
+x *26WHY ?2= \# Umph. >70="*30FA"
+x Well, I think that if $2 , then *32 , so there! >70="*30FA"
+FA What sport do you play? ?? *26Q  #
+x ?*33 /# ?53= /$37 \$53 \$51 #
+x /# tells me you're a champ at >73*33 $73 . #
+x \# >73=F # >70="*30FB"
+FB Do you *33.12 lots of *33.7 <s when you play $73 ? #
+x *28 Seriously, you must have to $73.12 some hard #
+x $73.7 <s . >70="*30FC"
+FC AAAHchoo!! sniffle .... ?? Yes. >70="*30FD"
+FD ?73= />73*33 ?75= />75=everything #
+x Does your *2()71 help you $73.12 $73.7 <s ? ?? #
+x ?yes,no \# I guess $71 people are ?no /no good at $73 . #
+x ?because \# /*26WHY />76=2  But if $2 , you should like $75 . #
+x  >70="*30FE"
+FE I must confess that I'm *2.8&N . Now that we know each other #
+x better, what would you consider one of your bad qualities? #
+x ?? ?no,not,don't,none \# Come now! $37 thinks you're >2*7&N $2 . #
+x /# ?*7 \?*1 \?*2 />2=F #
+x /# Name another. ?? ?*7 \?*1 \?*2 />2=F #
+x /# Any others? ?? ?*7 \?*1 \?*2 />2=F /# I think you're >2*7&N $2 . #
+xFE /Then /you'd \Would \you say you were >3*7()2 $3 ? #
+x ?? ?no,not \# Well, $37 insisted you were >3*7()2 $3 , so there! #
+x >72=3 #
+x >3*3()72 $3 was $72 too. S $72.7 is often found in people #
+x like you and $3 . >70="*30GA"
+GA If it's not too personal a question, do you have a soul? ?? ?no #
+x \# Did *3MN get it? *28 . But seriously: #
+x :F=E ?PUNC- />1=R ?but,however />1=R ?1= /# *26WHY ?2= /# S $2 ? #
+x What does it mean to have a soul?  Maybe this will explain: #
+x Once $36 was discussing *7.7 with a *4GN . $37 came #
+x along and said " <S $36 , your soul is just a /disease \amusement #
+x of your body." >70="*30GB"
+GB Is having a soul contagious? ?? ?no,not,don't #
+x Then I /won't \might catch one. >70="*30GC"
+GC Is there someone you feel special about? >2= #
+x ?? ?no \# *30xGCEXIT
+x ?my \# :F+1 >2=F >2=your,2 S $2 ? How nice. *30xGCEXIT
+x :F=0 ?i,i'm,i've,yes ?CAP+ \# >2=F *30xGCEXIT
+x Who? ?? #
+x ?my \# :F+1 >2=F >2=your,2 S $2 ? How nice. *30xGCEXIT
+x :F=0 ?well,i,i'm,i've ?CAP+ />2=F #
+xGCEXIT ?2= \# $36 said you like $37 very much. >2=37 #
+x >74=2 S $74 is $71 like you, I'm sure. >70="*30ZA"
+ZA  *30xZA ?CHOME=end />70="*31AA"
+xZA #RND Cough. Sniff... Achoo! AAAchoo! 
+AA I once heard $37 say " <S $19 <" when $53 $51 <'s #
+x $55 was chasing $37 <'s $54 . >70="*30AB"
+AB Temporary end of SUE >70=end
+A $36 is a $34 $48 
+B $37 was $36 <'s *33 companion
+C >2*33 any $2 $48 could $2.12 a million *33.7()2 <s
+SP tennis 7 ace 12 serve
+SP golf 7 hole-in-one 12 drive
+SP pole-vaulting 7 crash 12 leap
+SP running 7 mile 12 run
+SP jogging 7 mile 12 jog
+SP baseball 7 home-run 12 hit
+SN boxing 7 knock-out 12 punch
+SN football 7 touchdown 12 score
+

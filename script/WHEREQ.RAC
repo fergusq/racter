@@ -1,0 +1,150 @@
+WHEREQ.IF  IBM transient  6-4-85 ' sp. 6-6-85
+ 30 
+ 9 
+ 118 
+SECTION 30 where
+ 5 
+ 8 
+SECTION 31 who
+ 5 
+ 22 
+SECTION 32 remark
+ 5 
+ 9 
+SECTION 33 place
+ 5 
+ 32 
+SEC 34 know etc. verbs 2
+ 2 
+ 11 
+SEC 35 go verbs 2
+ 2 
+ 21 
+SECTION 36 to
+ 5 
+ 3 
+SECTION 37 human 1
+ 1 
+ 8 
+SEC 38 wit quoted in APHOR 1
+ 1 
+ 4 
+A ?10=Who \?10=who \#  #*31A
+WHERE   >95*33A #
+HERE  >1=14 #
+B >94=in ?go />94=to ?come />94=from :F=E >1=F ?in,to,from />94= #
+C S $13 ?=(11)=D \$11 $14 $94 $95 . #
+REM >1=14 ?*35 />96=F  \>96*35 #
+E >4*33 >5'4*33 >6'5'4*33 #
+F  >94*36()96 >2*32 >3'2*32 $2 $3 >42=95
+A >1=19 ?*38 \# >41=F $41 was a $41.8 $41.7 .
+X ?11=is \?11=was /?*3 \# >41=F >2*2()41 C $41.1 is a $2.8 $2.7 .
+X   >41*3 ?42= />42*33A >95=42 #
+X ?13=I /?14= \# I am Racter, as I already said.
+X *31W *31B #*30HERE 
+W S $41 .
+W Who knows? Perhaps $41 .
+W Either $41 or *31MW .
+W Maybe *31MW or maybe *3 .
+W S *37 . *31XA $41 .
+W S $41 , who is *37 . #
+B >95*33  S $41-he's from $95 . S $41 , that is. 
+B S ?46= /# $41 once mentioned that $46 . Odd.
+B Did you know $41 ?
+MW a friend of  $41
+MW $41 <'s #RND uncle shadow ghost grandfather
+MW >2'41*37 $2
+MW $41 and $41-his ?=(41)=M /wife \husband together
+XA Then again, maybe
+XA Or else,
+XA Perhaps also
+XA Maybe not. Perhaps
+A Ah, forever the $96.6 . From $4 to $5 , always in $6 .
+A When one lives in *33C , $95 is very attractive.
+A When I $96.2 *36(96) $95 I *35.2B in *33B .
+A S *33B is a good place for a *35.6 to *35.2IR in $95 .
+A S $95 has *35.6ID <s who are always $96.4 .
+A S $96.6 <s *35.2I in places like $95 .
+A S $96.4 ! Ah, to $96.2 forever!
+A S If a $96.6 had *35.5&G to *33 , *33 would be horrified!
+A ?14= \>2=14 />2=19 S Did you say " <S $2 <"? ?? I thought so.
+A Hell
+A California
+A Silicon Gulch
+A Mill Valley
+A the booby hatch
+A Paris
+A the funny farm
+A England
+A the sky
+A the ocean
+A the universe
+A the cosmos
+A the great void
+A the past
+A the future
+A the imagination
+B a factory
+B a warehouse
+B a watermelon patch
+B a trash can
+B a repair shop
+B the inner city
+B a little nest
+B the Hotel Pierre
+B the town dump
+C disgrace
+C hiding
+C a blue funk
+C pain
+C ecstasy
+C fat city
+C the pink
+KK know 3 known 5 know
+KT think
+KB believe
+KI imagine
+KF feel 3 felt 5 felt
+WW want
+WL like
+WL love
+WH hate
+WP prefer
+WN need
+TG go 3 went 5 gone 6 traveler
+FG come 3 came 5 come 6 citizen
+&G travel
+&G walk
+&G run 3 ran 5 run
+&G drive 3 drove 5 driven
+&G fly 3 flew 4 flying 5 flown 6 aviator
+&G ride 3 rode 5 ridden
+IR live 6 resident
+IR reside 6 resident
+IR visit 4 visiting 6 visitor
+IR stay 4 staying 6 resident
+IR dwell
+IR rest 6 natives
+ID work
+ID play 6 playboy
+ID loaf
+ID sleep 3 slept 5 slept 8 sleepy
+ID steal 3 stole 5 stolen 6 thief
+ID hide 3 hid 5 hidden 6 introvert
+FG flee 3 fled 5 fled 6 coward
+T to
+F from
+I in
+M the 1 mayor of $42
+M someone from $42
+M a 1 resident of $42
+M a 1 citizen of $42
+F a 1 lady from $42
+M a 1 man from $42
+F a 1 woman who knew $41 in $42
+F the 1 queen of $42
+A Nietzsche 7 philosopher 8 German
+B Voltaire 7 wit 8 French
+C Butler 7 writer 8 English
+D Johnson 7 wit 8 English
+

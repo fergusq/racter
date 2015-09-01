@@ -1,0 +1,109 @@
+IV1.IF   IBM  resident 6-6-85 sp. 6-6-85
+ 15 
+ 9 
+ 77 
+SECTION 15 quest take apart question according to its grammar UNIQ
+ 5 
+ 32 
+SEC 16
+ 16 
+ 1 
+SECTION 17 mirror   Exchange "you"  pronouns and "I" pronouns
+ 5 
+ 3 
+SECTION 18 ui
+ 5 
+ 18 
+SECTION 19 newquest
+ 5 
+ 12 
+SECTION 20 ipro interrogative pronoun
+ 5 
+ 8 
+SECTION 21
+ 21 
+ 1 
+SECTION 22
+ 22 
+ 1 
+SECTION 23 link
+ 5 
+ 1 
+A ?? ?Q /# *19QUIT /* *19ASK  ##
+X *15QUEST #
+X ?10= \# *19WHAT #*15A
+X *15QUOUT #
+X *23A Next question. #*15A 
+QUEST ?Q /# 
+X >18=1 #
+X  >21=19 # 
+X >10*20VERBQ >15= #
+X :F=E >7=L >1=7 #
+X :F-1 >2=F ?2= /# #RND ## ##
+BUFF :F=E ?PUNC- \>8= \# >7=R >8=L  #
+LOOP >1=7 :F=1 >2=F >7=R >1=2 #
+X ?then,but /#*15LOOP #
+X ?1= \# ?8= /# >7=8 >1=8 #*15BUFF
+X  \# ?10=VERBQ \#*15QUANS >10=
+X ?&n't \>16= />16=n't />1=Z #
+X ?&'s \# >1=Z >7=is,17  # 
+X ?*8 \# >9=F #*15QUANS
+X  ?10=VERBQ \# ?*20 />10=F \>7=  #*15LOOP
+X >15=15,1  #*15LOOP
+QUANS >1=7 *17A #
+X >13=D3 >$$13  #
+X >14= :F=1 >13=F >14=R  #
+X >1=13 ?*9 \# />13=F #
+X /# ?my,your,the,a,an \# >1=14 >14=R :F=1 >2=F >13=13,2 #
+X ?=(13)=U /?=(9)=A \>11*8()9 />11*8(9)(13) #
+X ?=(11)=X  \>11.(9) #
+X ?13= \?11=  /# >19=13,11,14
+X >2*2.7 >3*2.8()2 >19=a,2,is,3
+QUOUT >2=10 >$$2 >2=%;2 $2 #
+X *30A                     
+foo foo
+A  :F=0    #
+B ?*18+ \# >2=F >3'2*18(2) >2=L >4=R >1=2,3,4 ##
+C :F=1 ?me+0 \* >4=R >1=I,4
+A me
+A you 
+B I
+B you
+C my
+C your
+D mine
+D yours
+E I've
+E you've
+F I'm
+F you're
+G I'll
+G you'll
+H myself
+H yourself
+I I'd
+I you'd
+QUIT ?quit,end,stop,enough,&bye,finish&,off,close,tired,bored,won't,no #
+X \:T \* You want to quit? ?? ?-:no,not :T /# 
+X OK, goodbye $40 . Nice talking to you.
+ASK ?*1 \# >2=F >20*2()2 *5()2 #
+x  Ask a question, please. 
+WHAT What?
+WHAT Let's try another question.
+WHAT I don't quite understand.
+WHAT Could you rephrase that?
+WHAT What are you trying to ask?
+WHAT Eh?
+WHAT Try again.
+VERBQ VERBQ
+WHATQ what
+WHATQ which
+WHATQ when
+WHYQ why
+WHYQ how
+WHEREQ where
+WHEREQ who
+A o foo
+foo foo
+foo foo
+

@@ -1,0 +1,154 @@
+STORIES1 6-6-85
+ 30 
+ 9 
+ 122 
+SEC 30 rap  
+ 5 
+ 18 
+SEC 31 story1
+ 5 
+ 13 
+SEC 32 story2
+ 5 
+ 8 
+SEC 33 story3
+ 5 
+ 16 
+SEC 34 story4
+ 5 
+ 19 
+SEC 35 story5
+ 5 
+ 19 
+SEC 36 story6
+ 5 
+ 14 
+SEC 37 story7
+ 5 
+ 14 
+SEC 99
+ 99 
+ 1 
+first *30bang ?? *30next
+first *30pop >61*11&npr >62*11 #*30X8
+bang Would you like to hear a story?
+bang How about a story?
+bang It's about time for a story, isn't it?
+pop Here's a story.
+pop I recently heard this story.
+pop I just remembered this.
+next ?no,not,don't \# ?why- /# OK
+X3 Who should the story be about? ?? #
+X4 ?me \#  >61=40 #*30exit
+X  ?you \# >61=Racter #*30exit
+capcheck ?CAP /# Please use capital letters where appropriate. ?? #
+X5 ?CAP /# Look, I'll choose my own protagonist. >61*11&npr #*30exit
+X6 ?about />1=R ?i,my,i'd />1=R ?CAP \#*30capcheck #
+X7 >61=F ?CAP+1 />3=F />61=61,3 #
+exit >62*11 #
+X8 ?60= />60="*31aa" $60
+aa $61 *12.3spi& "The $62 is *13int ! <" #
+ab S *14i1j *13va , *13int *11.2&phy will #
+ac *12.2tha about *13col *11.2hom or *13col #
+ad *11.2co . *11&npr *12.3spi& to $61 #
+ae *14i1r a *11car . It *14i1h a !2*11car , #
+af and a $62 in a $2 is *13fri . Now !3*11&npr #
+ag and $61 were *12.4wk to a *13col *11hom , #
+ah and a *11dog *12.3wk to them . $61 was #
+ai *13ang . S *13int . S *14i1j $61 was #
+aj *12.3in *14i1a $3 *12.3dr *13dr #
+ak *11dri . S $3/1 and $61 *12.3spi& about #
+al their *11hom , *11car and *11rad . #
+exit >60="*32aa" :PUTIV1
+aa S *14i1v !2*11&npr *12.3wk to !3'2*11&npr . #
+ab They *12.3dir their *12.4wk *13.9ang to *11.2co #
+ac or *11.2mir in the *13int *11hom . S *14i1r #
+ad their *13ti *11.2hrt a *13fri *11pas was #
+ae *12.4spi& of a $62 . $61 *12.3spi& #
+af to $2 *14i1a $3 *12.3bg to *12.2spi& of #
+ag *11.2dog and *11.2brd . #
+exit >60="*33aa" :PUTIV1
+aa S *14i1v $61 *12.3spi& to !2*11&npr : #
+ab "my !3*11pas is *13int , *14i1u !4*13ang #
+ac and !5'4*13ang *11.2&phy will *12.2spi& #
+ad *14i1a *11.2dog *12.2see *11.2brd . <" #
+ae $2 *14i1l *12.2in or *12.2re $61 #
+af but *12.3bg *14i1q *12.2spi& : "> S *13et #
+ag *11.2dog are *12.4wk to *13col *11.2hom . <" #
+ah S !6*13int . S !7'6*13int . S *14i1j a *11dog #
+ai may *13.9et *12.2et !3*11mt and !4'3*11mt a *11brd #
+aj will *12.2fl over !3*11.2vg and !4'3*11.2vg #
+ak *14i3a *11.2&phy are *13ang . S *13fri ! #
+al S *14i1m a $62 , well $61 may *12.2tha #
+am that a $62 is *13dis , *14i1u my *12.4tha #
+an will *12.2dir my *11st from $61 to !3*11.2elp #
+ao and !4'3*11.2elp *14i1a $2 is *12.4re $61 . #
+exit >60="*34aa" :PUTIV1
+aa A *11rad , *11hom and *11car are *13imp #
+ab *14i1j $61 *12.3lv a !2*11co ! To #
+ac *12.2see a *11car as a !3*11re or !4'3*11re #
+ad in a *13dis *11mir *12.3in $61 . Why a #
+ae $2 ? A !3*11&phy might *12.2spi& that a $2 is #
+af *13imp ; *13.9ang the $3 *12.1spi& "the $2 is #
+ag *13imp *14i1u $61 *12.1tha of *11.2hom #
+ah and *11.2car . <" S *13fri . S *13int . S *14i1f . #
+ai The $3 *12.1spi& of a $2 *14i1a $61 #
+aj *12.1tha of *11.2car . Would !4*11&npr *12.2tha #
+ak about the *11.2pas of $61 ? $4 *12.1tha #
+al that the $3 is *13cr . A $2 ? Why? $4 *12.3spi& #
+am "> S $3 , you're *13cr and so is $61 . A $2 #
+an indeed! <" $61 *14i1h *13arg . The $3 #
+ao *14i1h *13arg . But $4 *12.3spi& to them #
+ap "> S *14i2a& <" S *14i1e . $4 *12.3bg to #
+aq *12.2spi& of *11.2dog and *11.2brd , even #
+ar *11.2bab or a *11kn . S *13fri ! #
+exit >60="*35aa" :PUTIV1
+aa S *12.4dr !2*11dri is $61 <'s *11pas . #
+ab S *12.4et !3*11mt is $61 <'s *11pas . #
+ac S *14i1u !4*11&npr *14i1v *12.1see only *11.2vg . #
+ad S *14i1f ! $61 *12.1spi& to $4 about $2 and #
+ae $3 *14i1j $4 will *12.2see *11.2vg . S *14i1f . #
+af $4 *12.3wk to $61 <'s *13col *11hom and #
+ag *12.3bg to *12.2re and *12.2in $61 #
+ah *14i1a $61 was *12.4spi& about $3 . #
+ai S *14i1e . S *14i3a $4 <'s own *13col *11hom #
+aj was *13fri ; $4/1 *12.3spi& *13.9pst to $61 #
+ak "> S *14i2a& <" This *12.3ki $61 . S *14i1c #
+al a !5*11&phy *12.3bg to *12.2et some *11.2vg . #
+am $4 was *13ang . S *14i1v $4/1 *12.3kn that #
+an to !6*12.2see a *11vg is not to !7'6*12.2see it. #
+ao $61 *12.1kn that $2 and $3 are not *11.2vg . #
+ap The $5 does not. S *14i2a& $4 is *13ang and #
+aq *13ti , *14i1u some *11.2vg *14i1k $4/2 #
+ar to be *13pst *14i1a $61 *12.3ki the $5 . #
+exit >60="*36aa" :PUTIV1
+aa $61 *12.3spi& of a !2*11brd *14i1a #
+ab !3*11&npr was *12.4spi& of a !4*11dog . S *14i2a& #
+ac Their *13col *11hom *14i1h *13.9int *13int , #
+ad their *13fri *11.2drm were *13arg . S *14i1v #
+ae $3 *12.1spi& . "My $4 will *12.2et your $2 , #
+af $61 . This *13ang $4 , *14i1d *13ang $4.2 #
+ag can *12.2tha about a $2 then , *13.9pst *12.2et #
+ah the $2 . S *14i1v a $4 may *12.2et *11mt #
+ai *14i1j *14i1r my *11.2drm I #
+aj *12.2see a *11re of *13end *11pas in a #
+ak *13int *13col *11co or *11mir . A $4 is #
+al *13et . <" "Well *12.3spi& <" , *12.3spi& $3 . #
+am "> S *14i1u my $2 can !7*12.2fl and !8'7*12.2fl . S *14i2b& <" #
+exit >60="*37aa" :PUTIV1
+aa !2*11&npr and !3'2*11&npr *12.3spi& of *11pa #
+ab with $61 *14i1a !4'3'2*11&npr was *13.9ang #
+ac *12.4spi& of *11lov . $4 *12.3dir $4/3 *12.4tha #
+ad to *11.2drm of !5*11pas and !6'5*11pas . "> S *14i1e <" #
+ae , *12.3spi& $61 , "> $2 and $3 are *13ti . <" #
+af S *14i1o *12.3bg to *12.2wk to $61 <s #
+ag !5*13col and !6'5*13col *11hom . S *14i1o *12.3wk #
+ah *13.9fs down the *11rd to $61 <s *11hom #
+ai *12.4spi& "> *14i1i a *13end *11psy . <" S *14i1b # 
+aj *12.3kn that *12.4fl *11.2brd were as *13dis as #
+ak their *11.2psy , that *12.4wk *11.2kn *12.3dir #
+al their *11.2hrt through *13ang *11.2drm . $2 , #
+am $3 , $4 and $61 were *13ti . #
+exit >60="*31aa" :PUTIV1
+garb GARBAGE IN I.O. TRANSFER
+

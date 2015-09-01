@@ -1,0 +1,92 @@
+VERBQ.IF  IBM  9-4-84  transient
+ 30 
+ 6 
+ 69 
+SECTION 30 ans
+ 5 
+ 14 
+SECTION 31 that
+ 5 
+ 18 
+SECTION 32  yes
+ 5 
+ 12 
+SECTION 33 think etc. verbs  2
+ 2 
+ 13 
+SECTION 34 want verbs 2
+ 2 
+ 10 
+SECTION 35 sure and similar words before "that" 8
+ 8 
+ 2 
+YES S $30 .  #*30Y
+YES I ?30=no /don't think so.  #*30Y
+YESP Certainly $31 . #RND * #*30Y&P
+YEP S $30 .
+YEP Of course $31 .
+YAP S $13 $11 $32 . #RND * * #*30YEP
+YUP *30YAP *30YEP S $14 , that is.
+YUP S $13 $11 $32 $14 . #RND * * #*30YEP
+YUP S *30YEP It's *32(30)T that $19 . 
+YEM S *32(30)C . #*30Y
+A ?16=n't />30=*32NES #
+X  /# >30*32&ES  >31*32(30)AG >32*32(30)AV *30Y #
+X  >1=14 ?that \# #*31A
+X >33=14 #*31RT
+A >33=R :F-1 >1=F ?*35 />2=F /*31S /# ?*33 />2=F /*31T #
+X *31RT  / *31Q >43=33    
+Q Do you care whether $33 ?
+Q Why does it matter whether $33 ?
+Q If $33 , then what?
+Q ?30=yes /# Well, maybe $33 after all, but so what.
+X S $33 , of course. 
+RT >1=33 ?*34 >2=F /*31W  ?*33 >2=F /*31T
+WANT S  *31XW
+XW $2.6 <s are often $2.3 .
+XW Sometimes $2.4 is *33.4 .
+XW To $2 everything is wrong ?30=yes /though .
+SURE ?30=yes S $13 *8A(11) really /$2 \>3'2*35.(2) \$3 . 
+THINK ?13=I />3=I \>3=People #*31XT
+XT S $3 have $2.5 much in times past.
+XT S $3  have been $2.4 for a long time.
+XT S $3 do $2.2 about such things.
+XT >3'2*33.4(2) S $2.4 is like $3 .
+YES yes
+NES no
+YA&
+NAG not
+NAV <n't
+YB but
+NB and
+YC ah
+NC um
+NC er
+YT true
+NT false
+K know 3 knew 5 known
+K realize
+K see 3 saw 4 seeing 5 seen
+T think 3 thought 5 thought
+T reckon
+T say
+B believe
+B suppose
+B imagine
+B suspect
+B hope
+B guess
+B feel 3 felt 5 felt
+P want
+P like
+P love
+P prefer
+P need
+N hate
+N despise
+N condemn
+N loath
+N abhor
+P sure 2 certain 3 positive 4 conceivable 5 possible 6 true
+N unsure 2 uncertain 3 negative 4 inconceivable 5 impossible 6 false
+

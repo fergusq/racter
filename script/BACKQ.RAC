@@ -1,0 +1,19 @@
+BACKQ.IF  IBM transient  9-4-84
+ 30 
+ 1 
+ 11 
+SECTION 30 back
+ 5 
+ 11 
+A By the way, $40 , what's your last name? #
+X :F=0 ?? ?it's,is,me,mr,ms,miss,born,i,i'm ?CAP+ \What? \## >23=F #
+X :PUTIV1 $23 , eh? Sounds vaguely familiar. I wonder...
+B I've been wondering where you are from, $40 ? #
+XB :F=0 ?? ?from,in >22=R :F=0 >1=22 ?PUNC+ />22=L #
+X You're from $22 ? #
+X ?? ?no,not \# Where, then? #*30XB
+X Now I remember! :PUTIV1 I once knew a *30XXB $23 #
+X from $22 . You must be related, no? #
+X ?? ?no,not \Fantastic! /Oh, /well.
+XXB #RND Clarabell Hortense Crinoline Hrothgar Ludwig
+

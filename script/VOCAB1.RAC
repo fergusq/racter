@@ -1,0 +1,123 @@
+VOCAB1.IF  standard vocabulary sp. corr. 6-7-85
+ 3 
+ 2 
+ 112 
+SECTION 3 person ALPH 1
+ 1 
+ 111 
+SEC 4 link
+ 5 
+ 1 
+AN Hamlet M
+AN Job M
+AN Sad 1 Sack M
+AP Little Orphan 1 Annie F
+BN Mortimer 1 Snerd M
+BN Nietzsche M
+BP Bertrand 1 Russell M
+BP Einstein M
+BP John von 1 Neumann M
+BP Kurt 1 Godel M
+BP Newton M
+BP Plato M
+BP Socrates M
+CN Byron M
+CN Keats M
+CN Schubert M
+CP Aristotle M
+CP Immanuel 1 Kant M
+DN Groucho 1 Marx M
+DN Jack the 1 Ripper M
+DN Khomeini M
+DN Racter M
+DN Woody 1 Woodpecker M
+DN the man in the 1 moon M
+DP George 1 Washington M
+DP Mickey 1 Mouse M
+DP Walter 1 Mondale M
+EN Doubting 1 Thomas M
+EP Loyala M
+FN Al 1 Capone M
+FN Bugsy 1 Siegal M
+FN Iago M
+FP Abraham 1 Lincoln M
+FP George 1 Washington M
+GN Genghis 1 Khan M
+GN Hitler M
+GN Ivan the 1 Terrible M
+GN Joseph 1 Stalin M
+GN Lizzie 1 Borden F
+GP Bella 1 Abzug F
+GP Helen 1 Caldicott F
+GP Jane 1 Fonda F
+GP Martin Luther 1 King M
+GP Mother 1 Teresa F
+HN Oblomov M
+HP Sisyphus M
+HP Superman M
+IN Marie 1 Antoinette F
+IP Babbitt M
+JN Adam M
+JN Eve F
+JN Picasso M
+JN any sentient 1 creature M
+JP Apple M
+JP IBM 1 PC M
+JP John 1 Turing M
+JP Racter M
+KN Jerry 1 Falwell M
+KN Jesse 1 Helms M
+KN Phyllis 1 Schlafly F
+KN Ronald 1 Reagan M
+KN William F. 1 Buckley M
+KP Bucky 1 Fuller M
+KP Jessica 1 Mitford F
+KP Timothy 1 Leary M
+LN Blake M
+LN Dante M
+LN Goethe M
+LN Homer M
+LN Shakespeare M
+LN Swinburne M
+LP Bill 1 Chamberlain M
+LP Charlotte 1 Bronte F
+LP Jane 1 Austen F
+LP Margaret 1 Kennedy F
+LP Racter M
+LP Virginia 1 Woolf F
+MN Beelzebub M
+MN Old 1 Nick M
+MN Satan M
+MN Scratch M
+MP Beatrice F
+MP God M
+MP Saint 1 Peter M
+NN Chicken 1 Little M
+NP Horatio M
+PN Cassandra F
+PP Pollyanna F
+QN Goofy M
+QP Solomon M
+RN Bob 1 Dylan M
+RN Charlie 1 Parker M
+RN Elvis 1 Presley M
+RN Michael 1 Jackson M
+RP Bach M
+RP Beethoven M
+RP Mozart M
+SN Muhammad 1 Ali M
+SP John 1 McEnroe M
+TN Bob 1 Cratchet M
+TP Rockefeller M
+UN James 1 Joyce M
+UN Larry 1 Flint M
+UP Anthony 1 Comstock M
+VN L. Ron 1 Hubbard M
+VP Einstein M
+WN Hitler M
+WP Juliet F
+WP Romeo M
+XN Caspar 1 Milquetoast M
+XP Samson M
+foo foo
+

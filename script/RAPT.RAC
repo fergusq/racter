@@ -1,0 +1,102 @@
+RAPT.IF   IBM  resident  6-6-85 sp. 6-6-85
+ 23 
+ 5 
+ 82 
+SECTION 23 rap  UNIQ
+ 5 
+ 20 
+SEC 24
+ 24 
+ 1 
+SECTION 25 rem remarks used by rap ALPH
+ 5 
+ 36 
+SECTION 26 sub  various subroutines UNIQ
+ 5 
+ 24 
+SEC 27 link
+ 5 
+ 1 
+A >1=18 ?*1 />2=F />20*2()2 \>20*2 *26CAST #
+x \# >45=20 >46=19 #
+x \# *5()20 #
+x ?20=45 #
+x /# *29A >20*2()20 # 
+RAP *25D #          
+xsue ?CSUE=end /# %SUE *30A #      
+xhome ?59=end /# *23QHOME #
+xaphor ?50=end /# *23QAPHOR #
+xjoke *23QJOKE #
+xstory *23QSTORY #
+XEXIT  :PUTIV     
+QJOKE #RND * * * #
+JOKE S *25J %JOKES *30A CR
+QHOME #RND * #
+HOME %HOME *30A
+QSTORY #RND * * * * #
+STORY ?65= />65="%STORIES1" $65 *30first 
+QAPHOR #RND * *  #
+APHOR %APHOR *30A
+foo foo
+D $36 and I think *2&N is $33 , don't you?
+D $36 liked $35 $32 .
+D $36 said that if $19 , then $37 is $34 .
+D A $36 could have said " <S $19 <"!
+D A *2.8&N $47 often falls prey to a *2.8&P $48 .
+D A *2.8(20)N $47 is still not a $37 .
+D Ah. #*25D
+D Hmm. #*25D
+D I don't know many $34 $47 <s .
+D I wonder if $48 <s like *2.10&NP ?
+D If "> S $19 <" occurred to a $48 , *25TD .
+D If a $48 discovered $30 , *25TD .
+D If a $48 heard that $19 , *25TD .
+D If a $48 married a $47 , they'd call their child $37 $36 .
+D S $32 is #RND ridiculous. meaningless. OK. funny. good.
+D S $34 $48 !
+D S $34 $48 <s need $36 .
+D S $35 $48 <s and $34 $47 <s should get along.
+D S $36 probably wouldn't like $37 .
+D S $40 the $47 .
+D S $47 !
+D The $31 have *2.8&N ways.
+D When a $47 marries a $48 , their children are $47.9 $33 .
+D Would you say *3&P is $31 ? $37 wouldn't.
+D You must be a $34 $48 .
+J $36 thought this was terrific:
+J I'll bet you haven't heard this one:
+J do you know this one?
+J have you heard this one?
+J here's a hilarious one:
+J listen to this!
+J oh, here's a great one!
+J this'll break you up!
+TD  he would be a *2.8&P $48
+TD he might think it was $32
+TD he would consider it $33
+CAST  >47*2.7(20)P >48*2.7(20)N #
+X >31*2.8()47  >33*2.8()48 #
+X >35*7()47     >34*7()48        #
+X >30*2.1()47  >32*2.1()48 #
+X >36*3()47  >37*3()48
+Q ?Q /# 
+X *15QUEST #
+x ?13= \?11= \# That's a *26SILLY question . 
+X ?10=VERBQ \Just \be \*26GLAD \that /Yes, $13 $11 . #RND * * * #
+X  Anyway , let's *26PRETEND that $19 .
+SILLY #RND silly odd funny queer strange interesting
+WHY #
+x ?1= \# #*26xWHYX
+x :F=1 ?i+0 \:D>1 #
+x >2= ?because />1=R /#  ?so /?that+1 />1=R #
+x /#  ?i,i'll,i've,i'm,i'd \:D>1 \# :F-1 >1=R #
+x ?1= \?PUNC/>1=L ?1=  \# #*26xWHYX
+x *17A *26AMARE # 
+xWHYX ?1= \# >2=there,isn't,a,reason 
+x >2=1 :F=1 ?i+0  \:D>2
+AMARE ?am />5=are /# ?are /?i-1 \* >5=am :F+1 #
+x >4=L >6=R >1=4,5,6
+PRETEND #RND pretend imagine suppose hypothesize
+GLAD #RND glad happy content satisfied
+foo foo
+

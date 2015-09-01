@@ -1,0 +1,130 @@
+VOCAB2 6-7-85 sp 6-6-85
+ 4 
+ 4 
+ 113 
+SECTION 4 animal ALPH 1
+ 1 
+ 58 
+SECTION 5 actions UNIQ
+ 5 
+ 4 
+SECTION 6 v verbs ALPH 2
+ 2 
+ 50 
+SEC 8 link
+ 5 
+ 1 
+AN turtle
+AP beaver
+AP clam
+AP lark
+BN ox 2 oxen
+BP fox 2 foxes
+CN chicken
+CP monkey 2 monkeys
+DN bat
+DN loon
+DP badger
+EN cat 2 cats
+EP dog 2 dogs
+FN rat
+FP horse
+GN boll 1 weevil
+GN centipede
+GN leech 2 leeches
+GN maggot
+GN rattlesnake
+GN scorpion
+GN stinkbug
+GN tapeworm
+GN varmint
+GP lady 1 bug
+HN sloth
+HP bee
+IN slug
+IP beaver
+JN primate
+JP insect
+KN salmon
+KP monkey 2 monkeys
+LN mockingbird
+LP parrot
+MN Tasmanian 1 devil
+MP angelfish 2 angelfish
+NN hyena
+NN jackal
+NP lion
+PN guinea 1 pig
+PP rabbit
+QN puppydog
+QP owl
+RN crow
+RP nightingale
+SN rooster
+SP racehorse
+TN church 1 mouse 2 mice
+TP swine 2 swine
+UN magpie
+UP canary 2 canaries
+VN human 1 being
+VP virus 2 viruses
+WN mink 2 mink
+WP turtle 1 dove
+XN jellyfish 2 jellyfish
+XP gorilla
+AAA *
+LP ?30=no /*29OTH *23STORY
+UN He He. .. Um . Uh ... ..  #
+DN ?30=no /*29OTH  *28 *23JOKE
+AN cry  1 cries 3 cried
+AN frown
+AP laugh
+AP smile
+BP forget 3 forgot 5 forgotten
+BP know 3 knew 5 known
+CN feel 3 felt 5 felt
+CP think 3 thought 5 thought
+DN rave
+DP converse
+EN doubt
+EP believe
+FN lie 4 lying
+FN steal 3 stole 5 stolen
+FP pay 3 paid 5 paid
+GN sin
+GP shine 6 saint
+HN loaf
+HP work
+IN sit 3 sat 5 sat
+IP run 3 ran 5 run
+JN create 8 creative
+JN live 8 alive
+JP calculate
+JP compute
+JP program
+KN imitate
+KP originate
+LN versify 1 versifies 3 versified 5 versified 8 poetic
+LP write 3 wrote 5 written 8 literary
+MN curse
+MP pray 8 holy
+NN flee 3 fled 4 fleeing 5 fled
+NP dare
+PN despair
+PP hope
+RN sing 3 sang 5 sung
+RP compose
+SN fight 3 fought 5 fought
+SP play
+TN starve
+TP hoard
+UN swear 3 swore 5 sworn
+UP exclaim
+VN complicate
+VP simplify 1 simplifies 3 simplified 5 simplified 
+WN hate 7 hatred
+WP love 7 love
+XN succumb 7 failure
+XP triumph 7 success
+foo foo
+
